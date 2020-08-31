@@ -1,2 +1,5 @@
 # Redstats
-Liverpool
+
+Liverpool player goals and assists
+
+Further details awaited
